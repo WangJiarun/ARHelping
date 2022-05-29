@@ -1,0 +1,11 @@
+{
+  "modules": {
+    "https://nexus.velocitypowered.com/repository/maven-public/:org.spongepowered:mixin:0.8.5": "maven.direct",
+    "org.ow2.asm:asm-commons:9.2": "maven.direct",
+    "org.ow2.asm:asm-util:9.2": "maven.direct",
+    "org.ow2.asm:asm-tree:9.2": "maven.direct",
+    "org.jetbrains.kotlin:kotlin-stdlib:1.7.0-RC": "maven.direct",
+    "org.jetbrains:annotations:23.0.0": "maven.direct",
+    "org.jetbrains.kotlin:kotlin-stdlib-common:1.7.0-RC": "maven.direct"
+  }
+}

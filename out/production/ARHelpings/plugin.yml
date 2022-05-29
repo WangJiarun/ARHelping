@@ -1,0 +1,4 @@
+name: ARHelpings
+version: 0.1.0-SNAPSHOT
+main: arfox.helpings.core.ARHelpings
+api-version: 1.18
